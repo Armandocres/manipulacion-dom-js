@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://Armandocres.github.io/manipulacion-dom-js',
+    baseUrl: 'https://Armandocres.github.io/manipulacion-dom-js',//
   },
 }
