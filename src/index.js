@@ -36,5 +36,5 @@ window.fetch(URL)
       ollNods.push(container);
     });
 
-    appNode.append(...ollNods);
+    appNode.append(...ollNods);//
   }) // renderiza info browser
