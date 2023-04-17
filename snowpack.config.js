@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://Armandocres/manipulacion-dom-js',
+    baseUrl: 'https://Armandocres/workshop-1-fetch',
   },
 }
